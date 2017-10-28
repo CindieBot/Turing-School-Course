@@ -1,0 +1,17 @@
+backend is ruby-centric
+frontend is Javascript (css, html-are a smaller part)
+
+report.turing.io   -  graduation info
+all info sheets are online, open-access
+
+client --> this is the computer, laptop, phone, etc
+sends Http request to a server
+example: GET/photo.jpg
+sends this request to a server.
+server asks the databace for the photo.
+database gives it to server, prepares it
+sends it back to client in http response (also htmal, css, and javascript)
+client reads all of this and shoes it to user.
+if server can't find it, it sends a 404 
+the browser can interpreit it in different ways
+
